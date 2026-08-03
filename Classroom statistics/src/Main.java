@@ -17,7 +17,7 @@ public class Main {
                 Lowest_Mark = mark;
             }
             sum += mark;
-            if (mark >= 6-) {
+            if (mark >= 60) {
                 passed++;
             }
         }
